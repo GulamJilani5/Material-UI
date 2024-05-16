@@ -1,0 +1,12 @@
+# To run server
+npm run dev
+
+#Mongodb cre
+// gulamjilanicse - username
+//nGaILJPY9GmfUPCw - password
+
+
+#Database storage
+     "name":"john",
+     "email": "john@gmail.com",
+     "password": "12345678"
